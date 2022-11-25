@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "EV-Charger",
+			"path": "../../EV-Charger"
+		}
+	],
+	"settings": {}
+}

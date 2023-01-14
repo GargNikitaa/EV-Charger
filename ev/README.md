@@ -1,16 +1,13 @@
-# ev
+# EV-Charger
+To stimulate the use of electric vehicles and advance sustainability, this project helps electric vehicle owners find a nearby electric charging station conveniently. It is a mobile application which will recommend the nearest charging station and maintain a status of the vehicle making the maintainence of the vehicle easier. The app is still in progress.
+Tech Stack Used:
+  1. Flutter & Dart for frontend
+  2. Firebase for backend
+  
+The UI/UX of the mobile application:
+![EV Charger](https://user-images.githubusercontent.com/104531927/207376412-b89dc140-4677-4bd8-886f-e1cbccdd3495.png)
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Project Owners:
+  1. Pratiksha Gowswami
+  2. Nikita Garg
